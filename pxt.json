@@ -138,7 +138,8 @@
         "tutorials/variable/novice/jump_blocks.md",
         "python/lesson8/activity2.md",
         "python/lesson8/activity3.md",
-        "Storytime-HanselAndGretel.md"
+        "Storytime-HanselAndGretel.md",
+        "Storytime-ThreeLittlePigs-Hay.md"
     ],
     "supportedTargets": [
         "minecraft"
