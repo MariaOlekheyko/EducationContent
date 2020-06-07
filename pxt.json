@@ -142,7 +142,8 @@
         "Storytime-ThreeLittlePigs-Hay.md",
         "Storytime-ThreeLittlePigs-Wood.md",
         "Storytime-ThreeLittlePigs-Brick.md",
-        "Storytime-JackBeanstalk-Bridge.md"
+        "Storytime-JackBeanstalk-Bridge.md",
+        "Storytime-JackBeanstalk-Seeds.md"
     ],
     "supportedTargets": [
         "minecraft"
