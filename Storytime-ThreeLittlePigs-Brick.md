@@ -2,7 +2,7 @@
 
 ## Blow the Brick house down
 
-```Code
+```block
 player.onChat("brick_huff_puff", function () {
     player.say("Woooooooooooossssssssssshhhhhhhh")
     for (let index = 0; index < 350; index++) {
