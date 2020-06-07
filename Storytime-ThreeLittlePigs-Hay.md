@@ -2,7 +2,7 @@
 
 ## Blow the Hay house down
 
-```Code
+```block
 player.onChat("hay_huff_puff", function () {
     player.say("Woooooooooooossssssssssshhhhhhhh")
     for (let index = 0; index < 350; index++) {
