@@ -2,7 +2,7 @@
 
 ## Rid the world of the Witch
 
-```Code
+```block
 player.onChat("witch_hunters", function () {
     mobs.kill(
     mobs.entitiesByType(mobs.monster(WITCH))

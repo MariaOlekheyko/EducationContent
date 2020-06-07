@@ -141,7 +141,8 @@
         "Storytime-HanselAndGretel.md",
         "Storytime-ThreeLittlePigs-Hay.md",
         "Storytime-ThreeLittlePigs-Wood.md",
-        "Storytime-ThreeLittlePigs-Brick.md"
+        "Storytime-ThreeLittlePigs-Brick.md",
+        "Storytime-JackBeanstalk-Bridge.md"
     ],
     "supportedTargets": [
         "minecraft"
