@@ -140,7 +140,8 @@
         "python/lesson8/activity3.md",
         "Storytime-HanselAndGretel.md",
         "Storytime-ThreeLittlePigs-Hay.md",
-        "Storytime-ThreeLittlePigs-Wood.md"
+        "Storytime-ThreeLittlePigs-Wood.md",
+        "Storytime-ThreeLittlePigs-Brick.md"
     ],
     "supportedTargets": [
         "minecraft"
