@@ -137,7 +137,10 @@
         "tutorials/variable/intermediate/bat_blocks.md",
         "tutorials/variable/novice/jump_blocks.md",
         "python/lesson8/activity2.md",
-        "python/lesson8/activity3.md"
+        "python/lesson8/activity3.md",
+        "main.py",
+        "storytimehanselgretel.md",
+        "Storytime-HanselAndGretel.md"
     ],
     "supportedTargets": [
         "minecraft"
