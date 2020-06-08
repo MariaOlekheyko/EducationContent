@@ -16,3 +16,5 @@ loops.forever(function () {
     }
 })
 ```
+## This code clones an object from somewhere else in the world to appear, as if by magic! Run the code to watch what happens. Then return here and choose something else to clone. 
+Map the coordinates of the object you wish to clone and determine what kind of materials are used. Update the code file to clone something else in your world! Don't you wish you could do this in the real world too? 
