@@ -47,4 +47,4 @@ player.onChat("bridge", function () {
     )
 })
 ```
-
+## Run this code to build the bridge. Then return to your code and change the bridge build materials to stone, and change how many blocks wide the bridge will be. 
