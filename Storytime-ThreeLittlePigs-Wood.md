@@ -26,3 +26,4 @@ player.onChat("wood_huff_puff", function () {
     }
 })
 ```
+## Run this code to see what happens. Then compare this code to the code from the hay house. What is different? What remains the same? Be thinking about how you can use this type of code very soon... 
