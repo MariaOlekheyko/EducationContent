@@ -38,3 +38,5 @@ player.onChat("witch_hunters", function () {
     }
 })
 ```
+## Take a look at this code. What do you think will happen? Run the code once to see. Then return to your code and modify it to replace the white tulips with another type of flower, or replace the cake with another object. 
+Remember, once you run this code once, the house will be destroyed! You can still run the code again with your changes, or you can launch a fresh version of this world and modify the code before you run it. 
