@@ -16,3 +16,4 @@ player.onChat("brick_huff_puff", function () {
     }
 })
 ```
+## Take a look at the code for this activity. You've just gotten ill, and the house didn't disappear! Use the coding you learned from the hay house and the wood house to make the brick houes blow down too. Good luck!
